@@ -19,8 +19,16 @@
 
 - Para abrir un archivo html: https://clientes-y-servicios-mina.herokuapp.com/webpage.html
 
+![](src/resource/html.png)
+
 - Para abrir un archivo js: https://clientes-y-servicios-mina.herokuapp.com/webpage.js
+
+![](src/resource/javascript.png)
 
 - Para abrir un archivo jpg: https://clientes-y-servicios-mina.herokuapp.com/carbonFM.jpg
 
+![](src/resource/carbonFM.jpg)
+
 - Para abrir un archivo png: https://clientes-y-servicios-mina.herokuapp.com/rg4l.png
+
+![](src/resource/rg4l.png)
