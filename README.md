@@ -27,8 +27,8 @@
 
 - Para abrir un archivo jpg: https://clientes-y-servicios-mina.herokuapp.com/carbonFM.jpg
 
-![](src/resource/carbonFM.jpg)
+![](src/resource/CarbonFM.png)
 
 - Para abrir un archivo png: https://clientes-y-servicios-mina.herokuapp.com/rg4l.png
 
-![](src/resource/rg4l.png)
+![](src/resource/RG4L2.png)
