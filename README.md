@@ -32,3 +32,12 @@
 - Para abrir un archivo png: https://clientes-y-servicios-mina.herokuapp.com/rg4l.png
 
 ![](src/resource/RG4L2.png)
+
+## Autor 
+
+[Sebastián Mina](https://github.com/sebastianmina)
+
+## Licencia & Derechos de Autor
+**©** Sebastián Mina, Estudiante de Ingeniería de Sistemas de la Escuela Colombiana de Ingeniería Julio Garavito
+
+Licencia bajo la [GNU General Public License]().
